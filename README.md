@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Barriecito&size=50&duration=4000&center=true&multiline=true&width=1435&height=130&lines=Hello+there+🦖+;I+am+Ameya+Khyati.)](https://git.io/typing-svg)
 
- ## About Me
+ ## 🐈 About Me
  
 - I enjoy turning ideas into clean, usable interfaces.  
-- Skilled in frontend technologies and currently exploring backend and ML through hands-on projects.  
+- Currently exploring backend and ML through hands-on projects.  
 - Always open to learn, collaborate and grow. 
 - Latest project I worked on: [Bookmarkr](https://github.com/ameyakhyati/Bookmarkr)
 - Feel free to reach out to me: ameya.khyati04@gmail.com. 
 
- P.S. - *Learning and making mistakes as I go :)*
+ P.S. - *Learning and making mistakes as I go :)* <br/>
  P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
 
 
 
-## Tech Stack
+## 🖥️ Tech Stack
 
   <h4>  Programming and Markup Languages</h4>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>  
