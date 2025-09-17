@@ -59,9 +59,3 @@
   <h4>  Design Tools </h4>
       <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-3969E7.svg?&logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-9C033A?logo=figma&logoColor=white"></a>
-
-##  
-  <p align="center">
-     P.S. - *Learning and making mistakes as I go :)* <br/>
-     P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
-  </p>
