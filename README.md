@@ -8,8 +8,8 @@
 - Latest project I worked on: [Bookmarkr](https://github.com/ameyakhyati/Bookmarkr)
 - Feel free to reach out to me: ameya.khyati04@gmail.com. 
 
- - P.S. - *Learning and making mistakes as I go :)*
- - P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
+ P.S. - *Learning and making mistakes as I go :)*
+ P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
 
 
 
