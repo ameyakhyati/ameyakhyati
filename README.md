@@ -62,6 +62,6 @@
 
 ##  
   <p align="center">
-     P.S. - *Learning and making mistakes as I go :)*
+     P.S. - *Learning and making mistakes as I go :)* <br/>
      P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
   </p>
