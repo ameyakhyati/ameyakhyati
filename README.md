@@ -61,7 +61,7 @@
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-9C033A?logo=figma&logoColor=white"></a>
 
 ##  
-  <p> align="center">
-     P.S. - *Learning and making mistakes as I go :)* <br/>
+  <p align="center">
+     P.S. - *Learning and making mistakes as I go :)*
      P.P.S. - *Thanks for visitng. It is a pleasure to have you here :)*
   </p>
