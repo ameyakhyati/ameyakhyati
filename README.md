@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Barriecito&size=35&duration=4000&center=true&multiline=true&width=1435&height=100&lines=Hello+there+🦖+;I+am+Ameya+Khyati.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Barriecito&size=45&duration=4000&center=true&multiline=true&width=1435&height=100&lines=Hello+there+🦖+;I+am+Ameya+Khyati.)](https://git.io/typing-svg)
 
  ## About Me
  
