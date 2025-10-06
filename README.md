@@ -56,3 +56,8 @@
   <h4>  Design Tools </h4>
       <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-3969E7.svg?&logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-9C033A?logo=figma&logoColor=white"></a>
+  <br/>
+  <br/>
+  
+  ## 
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=ameyakhyati0&label=Profile%20Views&color=000000&style=for-the-badge" alt="ameyakhyati" abbreviated=true /></p>
